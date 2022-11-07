@@ -1,0 +1,42 @@
+   
+           body{
+            font-size: 16px;
+           }
+           span{
+            display: block;
+            margin-bottom: 3px;
+            padding: 0 5px;
+            margin: 0;
+         
+           }
+           
+           #output-data{
+            display: flex;
+            align-items: flex-start;
+            margin: 0  auto;
+
+           }
+           .mainCell{
+            border:1px solid #000;
+            border-radius: 10px;
+            padding: 5px;
+            margin: 10px ;
+            background-color: pink;
+            
+           }
+           .one{
+            margin-left: 0px;
+            background-color: pink;
+           }
+           .two{
+                margin-left: 30px;
+                background-color: orange;
+           }
+           .three{
+                margin-left: 60px;
+                background-color: aqua;
+           }
+           .four{
+                margin-left: 90px;
+                background-color: darkkhaki;
+           }
